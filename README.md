@@ -1,6 +1,3 @@
-# HRV_Project
-Analysing the signals from the BITalino - calculator for each participants Baroreflex and thus their resonant frequency
-
 # Resonance Frequency HRV Analysis
 
 This script analyzes ECG data from a BITalino device to determine an
@@ -14,9 +11,10 @@ Upload OpenSignals (.txt) files with ECG data in column A2.
 Files must include `baseline` or `<number>bpm` in the filename.
 
 ## Usage
-1. Upload data files
-2. Update file paths in the script
-3. Run the script
+1. For recreating the results from our data: Download the ZIP files (CAMILLE & LUZIE), ennsure that the pathway in the code matches the location you have stored the downloads in. 
+2. Else: Upload data files
+3. Update file paths in the script
+4. Run the script
 
 ## Output
 - HRV plots
